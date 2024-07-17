@@ -13,9 +13,9 @@ const About = () => {
       </p>
       <div className="">CONTACT ME</div>
 
-      <div className="about-me mt-10 pt-10" id="about">
+      <div className="about-me mt-10 pt-10 pt-[200px]" id="about">
         <h2 className="text-6xl font-bold">About Me</h2>
-        <span>My Story</span>
+        <span className="text-emerald-400	font-bold">MY STORY</span>
         <p className="pt-6">
           Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed
           cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor
@@ -35,31 +35,31 @@ const About = () => {
           <div className="strip flex gap-12 mt-5">
             <div className="strip-content">
               <span>AGE:</span>
-              <span>24</span>
+              <span className="text-emerald-400	font-bold">24</span>
             </div>
             <div className="strip-content">
               <span>AGE:</span>
-              <span>24</span>
-            </div>
-          </div>
-          <div className="strip flex gap-12 mt-5">
-            <div className="strip-content">
-              <span>AGE:</span>
-              <span>24</span>
-            </div>
-            <div className="strip-content">
-              <span>AGE:</span>
-              <span>24</span>
+              <span className="text-emerald-400	font-bold">24</span>
             </div>
           </div>
           <div className="strip flex gap-12 mt-5">
             <div className="strip-content">
               <span>AGE:</span>
-              <span>24</span>
+              <span className="text-emerald-400	font-bold">24</span>
             </div>
             <div className="strip-content">
               <span>AGE:</span>
-              <span>24</span>
+              <span className="text-emerald-400	font-bold">24</span>
+            </div>
+          </div>
+          <div className="strip flex gap-12 mt-5">
+            <div className="strip-content">
+              <span>AGE:</span>
+              <span className="text-emerald-400	font-bold">24</span>
+            </div>
+            <div className="strip-content">
+              <span>AGE:</span>
+              <span className="text-emerald-400	font-bold">24</span>
             </div>
           </div>
         </div>
